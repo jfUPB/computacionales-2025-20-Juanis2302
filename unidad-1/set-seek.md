@@ -39,3 +39,14 @@ La diferencia es que en la memoria ROM está mi código el cual se va a ejecutar
 
 #### Explorando la arquitectura del computador Hack
 
+Lo que puedo predecir de este código es que tiene algo que ver con las teclas, ya que tiene varias etiquetas a lo largo del código.
+
+después de probar el código en efecto era sobre las teclas, pero adicional hay relación con la pantalla, donde cada que apretas una tecla, la pantalla se pinta full de negro
+
+1) Identifica una instrucción que use la ALU y explica qué hace.
+ALU (Arithmetic Logic Unit) se usa para comparar valores e incluso dirreciones y el que pude identificar seria D=D-A que se encarga de restar el valor en A del registro D usando ALU
+2) ¿Para qué sirve el registro PC?
+indica la dirección de la siguiente instrucción que se ejecutará, incluso incrementa cada ciclo
+3) 
+
+
