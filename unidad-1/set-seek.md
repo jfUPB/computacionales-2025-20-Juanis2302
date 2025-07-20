@@ -74,6 +74,18 @@ Si hay tecla presionada → dibuja nuevo píxel y baja.
 ### Actividad 03
 
 #### Control de flujo con saltos
-
-
-
+```
+@5
+D=M
+@10
+D=D-A
+@MENOR
+D;JLT
+@7
+M=0
+@END
+0;JMP
+@7
+M=1
+@END
+0;JMP
