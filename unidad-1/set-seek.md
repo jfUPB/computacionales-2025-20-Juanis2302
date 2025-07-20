@@ -47,6 +47,33 @@ después de probar el código en efecto era sobre las teclas, pero adicional hay
 ALU (Arithmetic Logic Unit) se usa para comparar valores e incluso dirreciones y el que pude identificar seria D=D-A que se encarga de restar el valor en A del registro D usando ALU
 2) ¿Para qué sirve el registro PC?
 indica la dirección de la siguiente instrucción que se ejecutará, incluso incrementa cada ciclo
-3) 
+3) ¿Cuál es la diferencia entre @i y @READKEYBOARD?
+@i  se refiere a una variable, que está en la RAM
+@READKEYBOARD  se refiere a una etiqueta
+4) Describe qué se necesita para leer el teclado y mostrar información en la pantalla.
+Leer el teclado: leer el registro KBD, que es mapeo de memoria en RAM[24576]
+Mostrar en pantalla: escribir en los registros de pantalla SCREEN (direcciones 16384–24575). Cada palabra representa 16 píxeles, donde 1 = píxel encendido
+5) Identifica un bucle en el programa y explica su funcionamiento.
+```
+@READKEYBOARD
+0;JMP
+```
+Se repite infinitamente, ya que 0;JMP siempre salta a (READKEYBOARD).
+Esto permite que el programa revise el teclado y actualice la pantalla de forma continua.
+6) Identifica una condición en el programa y explica su funcionamiento
+```
+@KBD
+D=M
+@KEYPRESSED
+D;JNE
+```
+Permite distinguir entre dos comportamientos:
+Si ninguna tecla está presionada → borra píxel (sube).
+Si hay tecla presionada → dibuja nuevo píxel y baja.
+
+### Actividad 03
+
+#### Control de flujo con saltos
+
 
 
