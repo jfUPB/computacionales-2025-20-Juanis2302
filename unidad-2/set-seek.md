@@ -16,3 +16,10 @@ Así quedo el primer punto, tanto probado en el programa como el codigo en notas
 
 ### Actividad 03
 #### Entrada salida interactiva
+
+
+
+
+
+### Actividad 04
+#### Convierte un ciclo while en un ciclo for
