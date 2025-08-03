@@ -1,4 +1,4 @@
-# Unidad 2
+l # Unidad 2
 
 ## 🔎 Fase: Set + Seek
 
@@ -67,4 +67,11 @@ Así quedó en el simulador
 Primero podría decir que este código lo que hace es sumar todos los elementos del arreglo
 <img width="102" height="384" alt="image" src="https://github.com/user-attachments/assets/c531dd58-d722-4e9a-b5b4-5796b5a3502d" />
 Yo lo haría así, como primer intento, lo empecé en la dirreción 16 porque así lo pedía el programa. A continuación realizaré mi paso a paso
+<img width="348" height="609" alt="image" src="https://github.com/user-attachments/assets/e661e60a-8009-424a-98b7-9db6ddc46cab" />
+Al final me quedó así, pero sigo teniendo dudas y sigo prefiriendo el inicio del primero
+<img width="121" height="607" alt="image" src="https://github.com/user-attachments/assets/4ac8d81d-e79f-474f-859d-605f3375ca4e" />
+entonces lo cambié y lo hice de nuevo y me quedó así 
+
+
+
 
