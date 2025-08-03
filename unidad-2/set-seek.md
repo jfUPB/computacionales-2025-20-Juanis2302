@@ -16,9 +16,10 @@ Así quedo el primer punto, tanto probado en el programa como el codigo en notas
 
 ### Actividad 03
 #### Entrada salida interactiva
+<img width="659" height="323" alt="image" src="https://github.com/user-attachments/assets/e340fb32-1a1b-4826-b51b-e144d317e5ee" />
+<img width="490" height="624" alt="image" src="https://github.com/user-attachments/assets/35f70c9c-9a5f-4a16-a7fe-441703a127bb" />
 
-
-
+Así ha quedado tanto en el programa como en notas, siguiendo y teniendo de apoyo las instrucciones del profesor
 
 
 ### Actividad 04
@@ -57,5 +58,13 @@ Así quedó en el simulador
 ### Actividad 05
 #### Punteros
 - Son variables y se guardan direcciones
+  <img width="86" height="333" alt="image" src="https://github.com/user-attachments/assets/bc44a5d2-a03a-4e65-b4e7-37cb70220d1e" />
+  
 
+  
+### Actividad 06
+#### Experimenta con arreglos
+Primero podría decir que este código lo que hace es sumar todos los elementos del arreglo
+<img width="102" height="384" alt="image" src="https://github.com/user-attachments/assets/c531dd58-d722-4e9a-b5b4-5796b5a3502d" />
+Yo lo haría así, como primer intento, lo empecé en la dirreción 16 porque así lo pedía el programa. A continuación realizaré mi paso a paso
 
