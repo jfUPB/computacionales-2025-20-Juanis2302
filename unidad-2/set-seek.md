@@ -72,6 +72,20 @@ Al final me quedó así, pero sigo teniendo dudas y sigo prefiriendo el inicio d
 <img width="121" height="607" alt="image" src="https://github.com/user-attachments/assets/4ac8d81d-e79f-474f-859d-605f3375ca4e" />
 entonces lo cambié y lo hice de nuevo y me quedó así 
 
+### Actividad 07
+#### Autoevaluación
+1) En ensamblador Hack, un puntero no es más que un espacio de memoria que guarda la dirección de otro espacio
+Para hacer algo parecido a p = &x, lo que hago es tomar la dirección de x y guardarla en una posición como @p
+2) Para acceder a arr[j] en Hack, imagino que arr empieza en una posición fija (por ejemplo, la 20).
+Luego, si j está en una variable, sumo esa posición base con j para obtener la dirección exacta
 
+1) El concepto más difícil para mí fue el control de flujo,especialmente los if y los for. Los ciclos especialmente,muno solo escribe la condición y el cuerpo, pero en ensamblador hay que hacer saltos manuales, como decir: “si esto no se cumple aquí, sigue por allá”. Es un concepto que generalmente me cuesta mas entender y hacerle pruebas.
+2) Ir probando paso por paso me permitió no perderme en lo que estaba haciendo. Además, al ver los valores en la RAM en cada paso, entendía mucho mejor qué estaba pasando por dentro. Sin ese enfoque, habría colapsado con tanta cosita
+3) Ahora me siento muy segura al identificar cuándo en C++ se está usando un acceso a memoria indirecta, como *ptr o arr[i]. Adicional del proceso paso a paso que hace el profe ya entiendo que por debajo eso significa ir a una dirección específica de la memoria y eso se traduce en A=D+A, D=M, etc.
+   
+### Actividad 09
+#### Feedback
+La actividad que más me ayudó fue cuando nos tocó traducir ese for en C++ que sumaba los valores del arreglo… eso sí me hizo entender cómo se ve en bajo nivel algo que uno en C++ hace sin pensarlo. Literalmente, ver que arr[j] era una suma de dirección + índice fue como: "ahhh, así funciona de verdad".
+También me ayudó muchísimo que todo estuviera dividido en pasos (predice, ejecuta, observa, reflexiona), porque así no me sentí tan perdida. Siento que sin eso me habría abrumado mucho más.
 
 
