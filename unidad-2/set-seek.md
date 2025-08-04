@@ -88,4 +88,13 @@ Luego, si j está en una variable, sumo esa posición base con j para obtener la
 La actividad que más me ayudó fue cuando nos tocó traducir ese for en C++ que sumaba los valores del arreglo… eso sí me hizo entender cómo se ve en bajo nivel algo que uno en C++ hace sin pensarlo. Literalmente, ver que arr[j] era una suma de dirección + índice fue como: "ahhh, así funciona de verdad".
 También me ayudó muchísimo que todo estuviera dividido en pasos (predice, ejecuta, observa, reflexiona), porque así no me sentí tan perdida. Siento que sin eso me habría abrumado mucho más.
 
+Dejar de hacer: Lo de tener que meter los valores del arreglo uno por uno, incluso dejar de hacer todo tan tecnico o tan estricto, hacer varias pruebas sirve pme pareció eterno. Entiendo que sirve para ver cómo se llena la memoria, pero llega un punto donde uno ya entendió la idea y se vuelve más una cosa mecánica.
+Yo cambiaría eso por un archivo RAM que uno pueda cargar rápido y ya enfocarse en el código de verdad. A veces me afano mucho y termino pasando todos estoss temas por alto.
+
+Empezar a hacer: Una idea que me habría ayudado es ver una animación o algo visual que muestre cómo cambia la memoria mientras se ejecuta el código. O sea, como ver un puntero moviéndose, o cómo cambia A, M, D... siento que eso me ayudaría a entender más fácil, porque todo en ensamblador es muy abstracto. 
+
+Ritmo y dificultad: Fue un salto grande. Pasamos de hacer cosas básicas e incluso muy grandes a pensar en cómo funciona todo desde cero. A veces me costó y mucho, pero no sentí que fuera imposible, solo que necesitaba más paciencia de la que suelo tener me ayudó mucho ir paso a paso, probar cada cosa por separado y no correrme a hacer todo el programa de una. 
+
+La verdad al principio sí me sentí insegura y que no iba a ser capaz, pensé que no iba a entender nada, pero cuando me puse en modo prueba y error, y me tomé el tiempo de verdad, me di cuenta de que sí soy capaz. Me ayudó mucho escribir las cosas a mi manera y buscar explicaciones que me sirvieran a mí, como con las pruebas o ejemplos tontos que me inventaba. Siento que en esta unidad empecé a pensar como programadora de verdad. No solo repito el código, sino entiendo verdaderamente lo que pasa por dentro.
+Gracias por hacer un curso que de verdad se siente pensado para que uno aprenda, y no solo para pasar.
 
